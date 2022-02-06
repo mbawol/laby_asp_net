@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wsei.Lab1", "Wsei.Lab1\Wsei.Lab1.csproj", "{65123335-01F6-4AB0-B152-AF559BE4FDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65123335-01F6-4AB0-B152-AF559BE4FDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65123335-01F6-4AB0-B152-AF559BE4FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65123335-01F6-4AB0-B152-AF559BE4FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65123335-01F6-4AB0-B152-AF559BE4FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05AFD7C6-FC07-4FD2-8A1B-217A2BC71552}
+	EndGlobalSection
+EndGlobal
